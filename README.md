@@ -1,4 +1,4 @@
-Vitamin Deficiency Detection Using Image Processing
+## Vitamin Deficiency Detection Using Image Processing
 Overview:
 Vitamin deficiency is a common health issue that can lead to various physical and medical complications if not identified early. This project focuses on detecting possible vitamin deficiencies by analyzing images of visible physical features such as the skin, eyes, nails, or tongue using image processing techniques. The system is designed to assist in early screening and healthcare awareness, especially in areas with limited access to medical facilities.
 
